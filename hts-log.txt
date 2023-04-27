@@ -1,0 +1,234 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 27 Apr 2023 17:53:15 at http://www.mpsshalimarbagh.com/ +*.css -*facebook* +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv -*/*twitter* -*/*youtube*
+(winhttrack -qir20%e3C1%n%Pns2u1%H%s%uN0%I0p3DaK0c8T3J500000000000R2H0%kf2A250000%c10#L10000000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.mpsshalimarbagh.com/ -O1 "P:\HTTRACK SITES\mps\mps" +*.css -*facebook* +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv -*/*twitter* -*/*youtube* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:53:15	Warning: 	* security warning: maximum number of connections per second limited to 5.000000 to avoid server overload
+17:53:15	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://mediamps.blogspot.com/
+17:53:21	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/
+17:53:21	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=fr
+17:53:21	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=it
+17:53:22	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=de
+17:53:22	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=es
+17:53:22	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=zh-cn
+17:53:22	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=zh-tw
+17:53:22	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=ja
+17:53:23	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=ko
+17:53:23	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=pt
+17:53:23	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=pt-br
+17:53:23	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=af
+17:53:24	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=cs
+17:53:24	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=da
+17:53:24	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=el
+17:53:25	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=fi
+17:53:26	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=hr
+17:53:26	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=hu
+17:53:26	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=id
+17:53:26	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=ms
+17:53:26	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=nb
+17:53:26	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=nl
+17:53:26	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=pl
+17:53:35	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=ru
+17:53:35	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=sk
+17:53:36	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=sv
+17:53:36	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=th
+17:53:36	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=tl
+17:53:36	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=tr
+17:53:37	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=hi
+17:53:37	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=bn
+17:53:37	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=gu
+17:53:37	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=kn
+17:53:38	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=ml
+17:53:38	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=mr
+17:53:38	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=pa
+17:53:38	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=ta
+17:53:39	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=te
+17:53:39	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=ne
+17:53:39	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=si
+17:53:39	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=ur
+17:53:40	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=vi
+17:53:40	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=bg
+17:53:40	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=fr-ca
+17:53:40	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=ro
+17:53:41	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=sr
+17:53:41	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=uk
+17:53:41	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=zh-hk
+17:53:41	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=es-la
+17:53:42	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=en-gb
+17:53:42	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=sw-ke
+17:53:42	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=ha-ng
+17:53:42	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=am-et
+17:53:42	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/?hl=om-et
+17:53:42	Warning: 	HTML file (232185 bytes) retransferred due to lack of cache: https://www.instagram.com/mpsshbagh/android-app://com.instagram.android/https/instagram.com/_u/mpsshbagh/
+17:53:47	Warning: 	Found for www.mpsshalimarbagh.com/admin
+17:53:47	Warning: 	File has moved from www.mpsshalimarbagh.com/admin to http://www.mpsshalimarbagh.com/admin/auth/login
+17:53:47	Error: 	Unable to save file P:/HTTRACK SITES/mps/mps/www.mpsshalimarbagh.com/admin: Permission denied
+17:54:10	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/10532/workshop-detail.html
+17:54:10	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/10530/workshop-detail.html
+17:54:11	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/6077/workshop-detail.html
+17:54:11	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/7355/workshop-detail.html
+17:54:13	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/7354/workshop-detail.html
+17:54:14	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/6333/workshop-detail.html
+17:54:15	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/6331/workshop-detail.html
+17:54:16	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/6329/workshop-detail.html
+17:54:17	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/page/workshops.html?page=1&per-page=8
+17:54:18	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/10528/workshop-detail.html
+17:54:18	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/8420/workshop-detail.html
+17:54:18	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/6177/workshop-detail.html
+17:54:19	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/6175/workshop-detail.html
+17:54:19	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/page/workshops.html?page=3&per-page=8
+17:54:20	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/page/workshops.html?page=5&per-page=8
+17:54:20	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/primary-wing-events.html
+17:54:21	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/senior-wing-events.html
+17:54:21	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/alumini-in-action.html
+17:54:22	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/10523/kindergarten-event-details.html
+17:54:22	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/10170/kindergarten-event-details.html
+17:54:23	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/9141/kindergarten-event-details.html
+17:54:23	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/9076/kindergarten-event-details.html
+17:54:24	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/page/kindergarten-events.html?page=1&per-page=8
+17:54:24	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/page/kindergarten-events.html?page=3&per-page=8
+17:54:25	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/page/kindergarten-events.html?page=5&per-page=8
+17:54:25	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/page/kindergarten-events.html?page=7&per-page=8
+17:54:25	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/page/kindergarten-events.html?page=9&per-page=8
+17:54:26	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/8059/international-ventures-detail.html
+17:54:26	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/8064/international-ventures-detail.html
+17:54:27	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/8062/international-ventures-detail.html
+17:54:27	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/8060/international-ventures-detail.html
+17:54:42	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/8362/publication-detail.html
+17:54:43	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/8123/publication-detail.html
+17:54:45	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/8121/publication-detail.html
+17:54:47	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/8117/publication-detail.html
+17:54:48	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/page/green-mps.html?page=1&per-page=8
+17:54:50	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/10516/outreach-programme-event-details.html
+17:54:51	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/7620/outreach-programme-event-details.html
+17:54:51	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/7618/outreach-programme-event-details.html
+17:54:52	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/page/outreach-programme-events.html?page=1&per-page=8
+17:54:52	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/page/outreach-programme-events.html?page=3&per-page=8
+17:54:53	Error: 	"Forbidden" (403) at link https://padlet.com/info23260/directfromheart (from www.mpsshalimarbagh.com/)
+17:54:54	Warning: 	Retry after error -4 (Interrupted transfer) at link https://mediamps.blogspot.com/ (from www.mpsshalimarbagh.com/)
+17:54:54	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://mediamps.blogspot.com/
+17:55:08	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: awardsnachievements.blogspot.com/
+17:55:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): awardsnachievements.blogspot.com/feeds/posts/default?alt=rss
+17:55:39	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/10539/awards-of-principal-events-details.html
+17:55:39	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/10127/awards-of-principal-events-details.html
+17:55:39	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/9729/awards-of-principal-events-details.html
+17:55:40	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/9726/awards-of-principal-events-details.html
+17:55:40	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/page/awards-of-principal-events.html?page=2&per-page=8
+17:55:41	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/page/awards-of-principal-events.html?page=4&per-page=8
+17:55:41	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/10632/school-accolades-events-details.html
+17:55:42	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/10622/school-accolades-events-details.html
+17:55:42	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/10620/school-accolades-events-details.html
+17:55:43	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/10538/school-accolades-events-details.html
+17:55:43	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/page/school-accolades-events.html?page=1&per-page=8
+17:55:44	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/page/school-accolades-events.html?page=3&per-page=8
+17:55:44	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/page/school-accolades-events.html?page=5&per-page=8
+17:55:45	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/page/school-accolades-events.html?page=7&per-page=8
+17:55:45	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/page/school-accolades-events.html?page=9&per-page=8
+17:55:46	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/10440/inter-intra-school-events-details.html
+17:55:46	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/8546/inter-intra-school-events-details.html
+17:55:47	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/8544/inter-intra-school-events-details.html
+17:55:47	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/8542/inter-intra-school-events-details.html
+17:55:48	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/page/inter-intra-school-events.html?page=1&per-page=8
+17:55:48	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/page/inter-intra-school-events.html?page=3&per-page=8
+17:55:49	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/page/inter-intra-school-events.html?page=5&per-page=8
+17:55:49	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/page/inter-intra-school-events.html?page=7&per-page=8
+17:55:50	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/page/inter-intra-school-events.html?page=9&per-page=8
+17:55:50	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/10630/award-achievement-detail.html
+17:55:52	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/10541/award-achievement-detail.html
+17:55:55	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/10438/award-achievement-detail.html
+17:56:00	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/10433/award-achievement-detail.html
+17:56:01	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/page/award-achievement.html?page=1&per-page=8
+17:56:02	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/page/award-achievement.html?page=3&per-page=8
+17:56:03	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/page/award-achievement.html?page=5&per-page=8
+17:56:03	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/page/award-achievement.html?page=7&per-page=8
+17:56:04	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/page/award-achievement.html?page=9&per-page=8
+17:56:08	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/10670/news-detail-page.html
+17:56:10	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/10485/news-detail-page.html
+17:56:10	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/10255/news-detail-page.html
+17:56:10	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/8419/news-detail-page.html
+17:56:11	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/page/news.html?page=1&per-page=8
+17:56:11	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/page/news.html?page=3&per-page=8
+17:56:12	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/10631/event-detail-page.html
+17:56:12	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/10622/event-detail-page.html
+17:56:13	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/10620/event-detail-page.html
+17:56:13	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/10535/event-detail-page.html
+17:56:14	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/page/events.html?page=2&per-page=8
+17:56:14	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/page/events.html?page=4&per-page=8
+17:56:15	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/page/events.html?page=6&per-page=8
+17:56:15	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/page/events.html?page=8&per-page=8
+17:56:16	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/page/events.html?page=10&per-page=8
+17:56:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ddovbg1o1goy6.cloudfront.net/static/admin/dist/deploy/ckeditor/ckeditor.js
+17:56:21	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/2948/photo-gallery-detail.html
+17:56:23	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: www.mpsshalimarbagh.com/2909/photo-gallery-detail.html
+17:56:24	Error: 	"Forbidden" (403) at link https://ddovbg1o1goy6.cloudfront.net/static/deploy/mps/dist/owl.video.play.png (from https://ddovbg1o1goy6.cloudfront.net/static/deploy/mps/dist/mps.min.css?rel=2023110401)
+17:56:24	Error: 	"Forbidden" (403) at link https://ddovbg1o1goy6.cloudfront.net/static/deploy/mps/images/-bg.png (from https://ddovbg1o1goy6.cloudfront.net/static/deploy/mps/dist/mps.min.css?rel=2023110401)
+17:56:24	Error: 	"Forbidden" (403) at link https://ddovbg1o1goy6.cloudfront.net/static/deploy/mps/images/icons/fact-panel-global-campus-icon.png (from https://ddovbg1o1goy6.cloudfront.net/static/deploy/mps/dist/mps.min.css?rel=2023110401)
+17:56:24	Error: 	"Forbidden" (403) at link https://ddovbg1o1goy6.cloudfront.net/static/deploy/mps/images/icons/fact-panel-award-icon.png (from https://ddovbg1o1goy6.cloudfront.net/static/deploy/mps/dist/mps.min.css?rel=2023110401)
+17:56:24	Error: 	"Forbidden" (403) at link https://ddovbg1o1goy6.cloudfront.net/static/deploy/mps/images/icons/mitLogo-2016.png (from https://ddovbg1o1goy6.cloudfront.net/static/deploy/mps/dist/mps.min.css?rel=2023110401)
+17:56:24	Error: 	"Forbidden" (403) at link https://ddovbg1o1goy6.cloudfront.net/static/deploy/mps/images/icons/juilliardLogo-2016.png (from https://ddovbg1o1goy6.cloudfront.net/static/deploy/mps/dist/mps.min.css?rel=2023110401)
+17:56:24	Error: 	"Forbidden" (403) at link https://ddovbg1o1goy6.cloudfront.net/static/deploy/mps/images/icons/fact-panel-play-icon.png (from https://ddovbg1o1goy6.cloudfront.net/static/deploy/mps/dist/mps.min.css?rel=2023110401)
+17:56:24	Error: 	"Forbidden" (403) at link https://ddovbg1o1goy6.cloudfront.net/static/deploy/mps/images/icons/footer-tear-mask.png (from https://ddovbg1o1goy6.cloudfront.net/static/deploy/mps/dist/mps.min.css?rel=2023110401)
+17:56:24	Error: 	"Forbidden" (403) at link https://ddovbg1o1goy6.cloudfront.net/static/deploy/mps/images/icons/footer-tear-border.png (from https://ddovbg1o1goy6.cloudfront.net/static/deploy/mps/dist/mps.min.css?rel=2023110401)
+17:56:24	Error: 	"Forbidden" (403) at link https://ddovbg1o1goy6.cloudfront.net/static/deploy/mps/images/icons/footer-social-icon-sprite_v2.png (from https://ddovbg1o1goy6.cloudfront.net/static/deploy/mps/dist/mps.min.css?rel=2023110401)
+17:56:24	Error: 	"Forbidden" (403) at link https://ddovbg1o1goy6.cloudfront.net/static/deploy/mps/images/icons/footer-social-icon-sprite-cn.png (from https://ddovbg1o1goy6.cloudfront.net/static/deploy/mps/dist/mps.min.css?rel=2023110401)
+17:56:24	Error: 	"Forbidden" (403) at link https://ddovbg1o1goy6.cloudfront.net/static/deploy/mps/dist/chosen-sprite.svg (from https://ddovbg1o1goy6.cloudfront.net/static/deploy/mps/dist/mps.min.css?rel=2023110401)
+17:56:24	Error: 	"Null-size file not recaught" (-1) at link https://static.cdninstagram.com/rsrc.php/v3/ys/r/aM-g435MtEX.png (from https://www.instagram.com/mpsshbagh/?hl=en)
+17:56:24	Error: 	"Null-size file not recaught" (-1) at link https://static.cdninstagram.com/rsrc.php/v3/yx/r/H1l_HHqi4p6.png (from https://www.instagram.com/mpsshbagh/?hl=en)
+17:56:24	Error: 	"Null-size file not recaught" (-1) at link https://static.cdninstagram.com/rsrc.php/v3/yG/r/De-Dwpd5CHc.png (from https://www.instagram.com/mpsshbagh/?hl=en)
+17:58:53	Error: 	"Not Found" (404) at link https://www.instagram.com/mpsshbagh/android-app://com.instagram.android/https/instagram.com/_u/mpsshbagh/ (from https://www.instagram.com/mpsshbagh/?hl=en)
+17:58:58	Error: 	Exit requested by shell or user
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/images/ad_network/icon_xout_report_white.png?__makehaste_cache_breaker=ZHmWZ5jPNJo
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/images/business_integrity/non_discrimination/Non_Discrimination_Header.png?__makehaste_cache_breaker=NtRNG_gaN11
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/images/ad_network/ad_choices.png?__makehaste_cache_breaker=tOMh8nRBb4Z
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/images/ad_network/icon_info_adchoices.png?__makehaste_cache_breaker=OGqJ1fYkNfh
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/images/ad_network/icon_xout_hide_white.png?__makehaste_cache_breaker=qMDbQeZThwc
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/images/ad_network/icon_xout_hide.png?__makehaste_cache_breaker=EkIMv2Z8fSD
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/images/ad_network/icon_xout_ad_preferences.png?__makehaste_cache_breaker=iLLvv8js0qr
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/images/mobile/partner_portal/oxsights/delete.png?__makehaste_cache_breaker=uMFc7Vv5zGa
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/images/ad_network/icon_xout_adchoices.png?__makehaste_cache_breaker=8RFARmpILyE
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/images/marketing_messaging/messenger_preview_frame_4x.png?__makehaste_cache_breaker=SYe6xuYV4dy
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/images/commerce_platform/shop_builder/preview-mobile-frame.png?__makehaste_cache_breaker=lS49le69x3X
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/images/video/onboarding/onboardingFlow-starBg.png?__makehaste_cache_breaker=7SR6gMtBpp6
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/images/assets_DO_NOT_HARDCODE/generic_mobile_device_frame/LaptopDeviceFrameBottom_light.png?__makehaste_cache_breaker=YkIg6DWpi8y
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/images/assets_DO_NOT_HARDCODE/generic_mobile_device_frame/LaptopDeviceFrameTop_dark.png?__makehaste_cache_breaker=ijtwALOagJp
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/images/social_good/donation-comment-hearts.png?__makehaste_cache_breaker=XdnlgRIDrAe
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/images/marketing_messaging/instagram_preview_frame_4x.png?__makehaste_cache_breaker=VThmYCw6QtY
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/images/assets_DO_NOT_HARDCODE/community_empowerment_roles/Communities-Empowerment-Roles-Platform-Spark-New-Convo-QP-ALT-WWW_light.png?__makehaste_cache_breaker=fX_BSjkmfju
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/images/ad_network/icon_xout_cross.png?__makehaste_cache_breaker=h3TJN88cIRB
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/images/ads/branded_map_pin.png?__makehaste_cache_breaker=QxM9c3xf1b4
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/images/instagram/xig/homepage/phones/home-phones.png?__makehaste_cache_breaker=HOgRclNOosk
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/images/assets_DO_NOT_HARDCODE/generic_mobile_device_frame/LaptopDeviceFrameTop_light.png?__makehaste_cache_breaker=TxhjtDtKNE3
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/images/instagram/xig_legacy_spritesheets/sprite_core.png?__makehaste_cache_breaker=VftLCxPPZoi
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/images/mobile/partner_portal/oxsights/share_custom.png?__makehaste_cache_breaker=eXTIrD70d3e
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/images/video/player_redesign/bottom_gradient.png?__makehaste_cache_breaker=Z8ThNyxPEjI
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/images/whatsapp/onboarding_platform/tree-line.svg?__makehaste_cache_breaker=iQ6qiDdN0-q
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/images/social_good/fundraiser/fundraiser-jar.png?__makehaste_cache_breaker=pIB2zrKnPRf
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/images/assets_DO_NOT_HARDCODE/generic_mobile_device_frame/LaptopDeviceFrameBottom_dark.png?__makehaste_cache_breaker=MbUjt44_M58
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/images/mobile/partner_portal/oxsights/share_dark.png?__makehaste_cache_breaker=Rm6JKCcGjW-
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/images/mobile/partner_portal/oxsights/delete_dark.png?__makehaste_cache_breaker=UsAf3NxOqis
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/images/instagram/xig_legacy_spritesheets/sprite_core_2x.png?__makehaste_cache_breaker=GWw2YTj1Yfo
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/images/instagram/xig/homepage/phones/home-phones-2x.png?__makehaste_cache_breaker=73SVAexZgBW
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/rsrc.php/v3/yS/r/j2tKuSsziq4.png
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/rsrc.php/v3/y5/r/TJztmXpWTmS.png
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/rsrc.php/v3/y2/r/9b8ieLAMy-I.png
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/rsrc.php/v3/yr/r/Zf3P2CwU8LT.png
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/rsrc.php/v3/yp/r/LElfhC4pb_J.png
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/rsrc.php/v3/yO/r/38WVYkpbDd-.png
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/rsrc.php/v3/y8/r/ZWR9C7_JdnP.png
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/rsrc.php/v3/yv/r/5WZ51EJRBPR.png
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/rsrc.php/v3/yH/r/S8jSrtgyvd6.png
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/rsrc.php/v3/yS/r/lVGlFG1Qa2U.png
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/rsrc.php/v3/yi/r/lvkTQo0k7OO.png
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/rsrc.php/v3/yn/r/XPTX0nme-Oq.png
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/rsrc.php/v3/yp/r/_kDwUYOrwpv.png
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/rsrc.php/v3/ys/r/qv7ZSPGDNFr.png
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/rsrc.php/v3/yN/r/otZOn9ChsZX.png
+17:58:58	Warning: 	File not added due to mirror cancel: https://static.cdninstagram.com/rsrc.php/v3/yg/r/y6a-zrkW3Zq.png
+17:59:02	Error: 	Exit requested by shell or user
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]
